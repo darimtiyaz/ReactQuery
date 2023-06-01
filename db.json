@@ -1,0 +1,173 @@
+{
+  "superAdmin": [
+    {
+      "id": 1,
+      "name": "aadil",
+      "alterEgo": "aadil ahmad"
+    },
+    {
+      "id": 2,
+      "name": "aaqib",
+      "alterEgo": "aaqib ahmad"
+    },
+    {
+      "id": 3,
+      "name": "muzamil",
+      "alterEgo": "muzamil ahmad"
+    },
+    {
+      "name": "hii",
+      "alterEgo": "hii",
+      "id": 4
+    },
+    {
+      "name": "hii",
+      "alterEgo": "hii",
+      "id": 5
+    },
+    {
+      "name": "tajamul",
+      "alterEgo": "haqqani",
+      "id": 6
+    },
+    {
+      "name": "tajamul",
+      "alterEgo": "haqqani",
+      "id": 7
+    },
+    {
+      "name": "wanna",
+      "alterEgo": "baaa",
+      "id": 8
+    },
+    {
+      "name": "hitech",
+      "alterEgo": "wepon",
+      "id": 9
+    },
+    {
+      "name": "munna",
+      "alterEgo": "kanna",
+      "id": 10
+    },
+    {
+      "name": "munna",
+      "alterEgo": "kanna",
+      "id": 11
+    },
+    {
+      "name": "munna",
+      "alterEgo": "kanna",
+      "id": 12
+    },
+    {
+      "name": "manna",
+      "alterEgo": "manna",
+      "id": 13
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "kanna"
+    },
+    {
+      "id": 2,
+      "name": "wannna"
+    },
+    {
+      "id": 3,
+      "name": "green"
+    }
+  ],
+  "users": [
+    {
+      "id": "imtiyaz@gmail.com",
+      "channelId": "code"
+    }
+  ],
+  "channels": [
+    {
+      "id": "code",
+      "cources": [
+        "react",
+        "angular",
+        "vue"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "green"
+    },
+    {
+      "id": 3,
+      "label": "blue"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "voilet"
+    },
+    {
+      "id": 6,
+      "label": "pupple"
+    },
+    {
+      "id": 7,
+      "label": "red"
+    },
+    {
+      "id": 8,
+      "label": "green"
+    },
+    {
+      "id": 9,
+      "label": "blue"
+    },
+    {
+      "id": 10,
+      "label": "yellow"
+    },
+    {
+      "id": 11,
+      "label": "voilet"
+    },
+    {
+      "id": 12,
+      "label": "pupple"
+    },
+    {
+      "id": 13,
+      "label": "red"
+    },
+    {
+      "id": 14,
+      "label": "green"
+    },
+    {
+      "id": 15,
+      "label": "blue"
+    },
+    {
+      "id": 16,
+      "label": "yellow"
+    },
+    {
+      "id": 17,
+      "label": "voilet"
+    },
+    {
+      "id": 18,
+      "label": "pupple"
+    }
+  ]
+}
